@@ -1,1 +1,1 @@
-![Banner Animado](documentos/capa_github.gif)
+![Banner Animado](introdução a computação/capa_github.gif)
