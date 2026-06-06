@@ -1,4 +1,4 @@
-# Bem vindos ao meu portifolio
+# Bem vindos ao meu portfolio
 
 Documento desenvolvido para apresentar meus projetos, habilidades e trajetória na área de Computação.
 
