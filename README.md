@@ -1,1 +1,3 @@
-![Banner Animado](introdução a computação/capa_github.gif)
+<p align="center">
+  <img src="./assets/capa_github.gif" alt="Banner animado" width="100%">
+</p>
