@@ -10,7 +10,7 @@ Documento desenvolvido para apresentar meus projetos, habilidades e trajetória 
 
 ##  Preview
 
-![Preview do Portfólio](imagens/preview.png)
+![Preview do Portfólio](assets/preview_portfolio.jpeg)
 
 ##  Como executar localmente
 
@@ -18,7 +18,7 @@ Documento desenvolvido para apresentar meus projetos, habilidades e trajetória 
 git clone https://github.com/annabetelisboa/Portifolio.git
 ```
 
-Abra o arquivo `index.html` no navegador.
+Abra o arquivo `portfolio.html` no navegador.
 
 
 ##  Desenvolvedora
